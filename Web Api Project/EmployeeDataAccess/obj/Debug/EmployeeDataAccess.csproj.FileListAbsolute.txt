@@ -1,0 +1,12 @@
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+E:\Dot net Projects\Web Api Project\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

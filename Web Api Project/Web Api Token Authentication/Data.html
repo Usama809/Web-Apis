@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body style="padding-top:20px">
+    <div class="col-md-10 col-md-offset-1">
+        <div class="well">
+            <input type="button" id="btnLoadEmployees" class="btn btn-success"
+                   value="Load Employees" />
+            <span id="spanUsername" class="text-muted"></span>
+            <input type="button" id="btnLogoff" class="btn btn-success pull-right"
+                   value="Log Off" />
+
+        </div>
+        <div class="well hidden" id="divData">
+            <table class="table table-bordered" id="tblData">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>FirstName</th>
+                        <th>LastName</th>
+                        <th>Gender</th>
+                        <th>Salary</th>
+                    </tr>
+                </thead>
+                <tbody id="tblbody"></tbody>
+            </table>
+        </div>
+        <div class="model fade" tabindex="-1" id="errorModel"
+             data-keyboard="false" data-backdrop="static">
+            <div class="model-dialog model-sm">
+                <div class="model-content">
+                    <div class="model-header">
+                        <button type="button" class="close" data-dismiss="model">
+                            &times;
+                        </button>
+                        <h4 class="model-title">Session Expired</h4>
+                    </div>
+                    <div class="model-body">
+                        <form>
+                            <h2 class="model-title"> Please chose the message to login again</h2>
+                        </form>
+                    </div>
+                    <div class="model-footer">
+                        <button type="button" data-dismiss="model" class="btn btn-success">Close</button>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        <div id="divError" class="alert alert-danger collapse">
+            <a id="linkClose" class="close" href="#">&times;</a>
+            <div id="divErrorText"></div>
+
+        </div>
+
+    </div>
+    <!--<script src="Scripts/jquery-3.4.1.min.js"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $('#spanUsername').text('Helo' + localStorage.getItem('userName'));
+            if (localStorage.getItem('accessToken') == null) {
+                window.location.href = "Login.html";
+            }
+            $('#errorModel').on('hidden.bs.modal', function () {
+                window.location.href = "Login.html";
+            });
+            $('#btnLogoff').click(function () {
+                localStorage.removeItem('accessToken');
+                window.location.href = "Login.html";
+            });
+            $('#linkClose').click(function () {
+                $('#divError').hide('fade');
+            });
+            $('#btnLoadEmployees').click(function () {
+
+                $.ajax({
+                    url: '/api/employees',
+                    method: 'GET',
+                    headers: {
+                        'Authorization': 'Bearer' + localStorage.getItem('accessToken')
+                    },
+                    success: function (data) {
+                        $('divData').removeClass('hidden');
+                        $('#tblBody').empty();
+                        $.each(data, function (index, value) {
+                            var row = $('<tr><td>' + value.ID + '</td><td>'
+                                + value.FirstName + '</td><td>'
+                                + value.LastName + '</td><td>'
+                                + value.Gender + '</td><td>'
+                                + value.Salary + '</td><td>'
+                                    $('#tblData').append(row);
+                                );
+                    });
+
+            },
+                error: function (jqXHR) {
+                    if (jqXHR.status == "401") {
+                        $('#errorModel').Modal('show');
+                    }
+                    else {
+                        $('#divErrorText').text(jqXHR.responseText);
+                        $('#divError').show('fade');
+                    }
+                }
+                    });
+                });
+            });
+
+    </script>
+</body>
+
+
+</html>

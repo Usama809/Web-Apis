@@ -1,0 +1,97 @@
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\5- Web NET Web Api and SQL.dll.config
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\5- Web NET Web Api and SQL.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\5- Web NET Web Api and SQL.pdb
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\csc.exe
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\csc.exe.config
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\csc.rsp
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\csi.exe
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\csi.exe.config
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\csi.rsp
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.AppContext.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Collections.Immutable.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Console.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Globalization.Calendars.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.IO.Compression.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.IO.FileSystem.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Net.Http.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Net.Sockets.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.ValueTuple.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Xml.XPath.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\vbc.exe
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\vbc.exe.config
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\vbc.rsp
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\VBCSCompiler.exe
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\roslyn\VBCSCompiler.exe.config
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\Antlr3.Runtime.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\EmployeeDataAccess.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\Microsoft.Web.Infrastructure.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\Newtonsoft.Json.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Net.Http.Formatting.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Helpers.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Http.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Http.WebHost.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Mvc.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Optimization.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Razor.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.WebPages.Deployment.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.WebPages.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.WebPages.Razor.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\WebGrease.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\EmployeeDataAccess.pdb
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\EmployeeDataAccess.dll.config
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\Newtonsoft.Json.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Net.Http.Formatting.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Helpers.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Http.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Http.WebHost.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Mvc.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Optimization.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Razor.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.WebPages.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.WebPages.Deployment.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.WebPages.Razor.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\Antlr3.Runtime.pdb
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\EntityFramework.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\obj\Debug\5- Web NET Web Api and SQL.csprojAssemblyReference.cache
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\obj\Debug\5- Web NET Web Api and SQL.csproj.CoreCompileInputs.cache
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\obj\Debug\5- Web NET Web Api and SQL.csproj.CopyComplete
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\obj\Debug\5- Web NET Web Api and SQL.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\obj\Debug\5- Web NET Web Api and SQL.pdb
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\EntityFramework.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\EntityFramework.SqlServer.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\EntityFramework.SqlServer.xml
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Cors.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Http.Cors.dll
+E:\Dot net Projects\Web Api Project\5- Web NET Web Api and SQL\bin\System.Web.Http.Cors.xml
